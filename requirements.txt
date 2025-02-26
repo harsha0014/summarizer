@@ -1,0 +1,9 @@
+streamlit
+validators
+langchain
+langchain-groq
+langchain-community
+unstructured
+fastapi
+uvicorn
+pydantic
